@@ -3,7 +3,7 @@
 ## Comandos
 
     - git init -> cria repositorio local
-    - git status -> lista modificações no meu diretorio
+    - git status -> lista modificações no meu diretorio/ saber se foi feito alguma modificação no arquivo ou não.
     	- alteração de arquivos
     	- criação de arquivos
     	- exclusão de arquivos
