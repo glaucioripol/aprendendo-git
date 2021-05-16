@@ -9,5 +9,7 @@
     	- exclusão de arquivos
     - git add -> adiciona um arquivo na sua stage(no ponto de escrever uma mensagem de alteração do repositorio)
     	- Exemplo: `git add nome-do-arquivo`
+    - git restore --staged -> remove da associação da sua mensagem de commit um arquivo adicionado por engano
+    	- exemplo: `git restore  --staged um-arqui.any`
     - git commit -m -> escreve uma mensagem informando o que foi alterado no repositorio
     	- exemplo `git commit -m 'adicionei uma virgula no meu json`
